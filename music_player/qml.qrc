@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayerControls.qml</file>
+        <file>SeekBar.qml</file>
+        <file>PlayerIcon.qml</file>
+        <file>TimerLabel.qml</file>
+        <file>Thumbnail.qml</file>
+    </qresource>
+    <qresource prefix="/assets">
+        <file alias="icon_next.png">images/icon_next.png</file>
+        <file alias="icon_pause.png">images/icon_pause.png</file>
+        <file alias="icon_prev.png">images/icon_prev.png</file>
+        <file alias="icon_repeat.png">images/icon_repeat.png</file>
+    </qresource>
+    <qresource prefix="/albums">
+        <file alias="songslist.xml">songs/songslist.xml</file>
+    </qresource>
+</RCC>
